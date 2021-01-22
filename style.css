@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+
+}
+
+#cricket {
+    height: 100px;
+}
+
+.links {
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font font-family: fantasy;
+    font-size: 20px
+}
+
+h1 {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+#imgs {
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#like {
+    font-size: 20px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#work {
+    font-size: 25px;
+}
